@@ -77,12 +77,12 @@ const InfoDialog: React.FC<InfoDialogProps> = ({ databaseStatus }) => {
                             <div className="flex gap-2">
                                 專案原始碼
                                 <a
-                                    href="https://github.com/AiverAiva/"
+                                    href="https://github.com/AiverAiva/earthquake.gugugaga.net"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="text-blue-500 hover:text-blue-700 cursor-pointer trasition-color duration-250 flex gap-1 items-center"
                                 >
-                                    <Folder className="h-5 w-5" /> AiverAiva/
+                                    <Folder className="h-5 w-5" /> AiverAiva/earthquake.gugugaga.net
                                 </a>
                             </div>
                         </div>
