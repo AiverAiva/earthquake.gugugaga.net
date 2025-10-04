@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "台灣地震資料視覺化地圖",
   description: "提供台灣歷年地震資料的視覺化與篩選功能。",
   openGraph: {
-    images: "/cow.png",
+    images: "/thumbnail.png",
   },
   themeColor: "#3B5323",
 };
